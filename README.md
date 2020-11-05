@@ -110,3 +110,7 @@ struct ImageDog: View {
 }
 
 ```
+
+### Gif
+
+![](https://media.giphy.com/media/8Q6gdIk51m2apmWBqB/giphy.gif)
