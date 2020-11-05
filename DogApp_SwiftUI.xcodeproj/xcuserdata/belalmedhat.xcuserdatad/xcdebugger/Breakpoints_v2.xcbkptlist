@@ -32,8 +32,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "43"
             endingLineNumber = "43"
-            landmarkName = "body"
-            landmarkType = "24">
+            landmarkName = "ImageDog"
+            landmarkType = "14">
             <Locations>
                <Location
                   uuid = "3CA19F2D-C4DC-4F4F-9B8D-CAA6996B5881 - af9b50f91e3d1c4d"
@@ -138,8 +138,8 @@
             filePath = "DogApp_SwiftUI/Networking/Network.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
             landmarkName = "ApiCaller()"
             landmarkType = "7">
          </BreakpointContent>

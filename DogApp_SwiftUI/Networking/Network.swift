@@ -17,9 +17,7 @@ class Network:ObservableObject {
     
      // MARK: Network Caller
     func ApiCaller(){ // used URLSession for Network requesting and Codable For parsing JSON
-        
-    // I Know That it isn't the best practice to use static for calling network call but i use it to try the SwiftUI and how to handle data in views
-    
+            
         // 1 :: create URL
         if let DogURL = URL(string: "https://dog.ceo/api/breeds/image/random") {
         
