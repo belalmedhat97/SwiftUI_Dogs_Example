@@ -6,7 +6,7 @@
 //  Copyright © 2020 Belal medhat. All rights reserved.
 //
 
-import SwiftUI
+import UIKit
 class Network:ObservableObject {
     // ++++++ confirm to Observable to observe any change in the class published data ++++++
     
@@ -52,10 +52,4 @@ class Network:ObservableObject {
         
     }
   
-}
-
-struct Network_Previews: PreviewProvider {
-    static var previews: some View {
-        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
-    }
 }
